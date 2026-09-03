@@ -1,0 +1,4 @@
+pywin32>=306
+pypresence>=4.3
+psutil>=5.9
+uiautomation>=2.0.18
